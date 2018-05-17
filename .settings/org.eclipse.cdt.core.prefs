@@ -1,0 +1,6 @@
+eclipse.preferences.version=1
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1041983391/PATH/delimiter=;
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1041983391/PATH/operation=replace
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1041983391/PATH/value=C\:\\Users\\Nihit\\STM32toolchain\\gnu-arm\\4.8-2014q3\\bin;C\:\\Program Files (x86)\\Common Files\\Oracle\\Java\\javapath;C\:\\Program Files (x86)\\Intel\\iCLS Client\\;C\:\\Program Files\\Intel\\iCLS Client\\;C\:\\Windows\\system32;C\:\\Windows;C\:\\Windows\\System32\\Wbem;C\:\\Windows\\System32\\WindowsPowerShell\\v1.0\\;C\:\\Windows\\System32\\OpenSSH\\;C\:\\Program Files (x86)\\STMicroelectronics\\STM32 ST-LINK Utility\\ST-LINK Utility;C\:\\MinGW\\bin;C\:\\Users\\Nihit\\STM32toolchain\\BuildTools\\GNU MCU Eclipse\\Build Tools\\2.11-20180428-1604\\bin
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1041983391/append=true
+environment/project/ilg.gnuarmeclipse.managedbuild.cross.config.elf.debug.1041983391/appendContributed=true
